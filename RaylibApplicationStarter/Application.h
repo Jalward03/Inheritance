@@ -19,5 +19,4 @@ private:
 	void OnDestroy();
 
 	GameStateManager* m_gameStateManager;
-
 };
